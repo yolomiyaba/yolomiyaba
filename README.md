@@ -1,3 +1,3 @@
 Yoo!
 
-Test GitHub Trigger 5
+Test GitHub Trigger 6
